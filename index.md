@@ -8,6 +8,10 @@ If you choose to use my Service (this includes the free version as well as the p
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at HueLight unless otherwise defined in this Privacy Policy.
 
+**In-App Purchases**
+In-App purchases unlock additional functionality, that can be tested beforehand by watching advertisements.
+I don't issue refunds with few rare exceptions.
+
 **Information Collection and Use**
 
 HueLight does not collect any information about you as a person. 
